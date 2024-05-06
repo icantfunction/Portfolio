@@ -1,0 +1,19 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  
+  #welcome-section {
+    height: 100vh;
+  }
+  
+  nav {
+    position: fixed;
+    background: rgba(250, 20, 50, 0.6)
+  }
+  
+  h1 {
+    position: relative;
+    top: 10%;
+  }
